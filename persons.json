@@ -157,4 +157,20 @@
     "state": "Manitoba",
     "country": "Canada"
   }
+},
+{
+  "id": 1010,
+  "name": "Kenneth Nwobi",
+  "img": "https://drive.google.com/file/d/1ljZpfQe_u3w6MSQvABawozQRi_saPuBt/view?usp=sharing",
+  "links": {
+    "website": "https://kencode7.github.io/",
+    "linkedin": "linkedin.com/in/kenneth-nwobi-8b7034169",
+    "github": "https://github.com/kencode7"
+  },
+  "jobTitle": "Frontend Software Engineer",
+  "location": {
+    "city": "Awka",
+    "state": "Anambra State",
+    "country": "Nigeria"
+  }
 }
